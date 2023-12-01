@@ -14,7 +14,7 @@ Para utilizar este tema no seu projeto WordPress, siga os passos abaixo:
 1. Clone este repositório dentro da pasta onde ficam salvos os temas do seu site WP. Essa pasta geralmente fica no endereço: __seu-site-wp/wp-content/themes__. Você pode fazer isso executando o seguinte comando no terminal, após acessar a pasta de temas:
 
     ```bash
-    https://github.com/Portal-Maratonas/tema-alumni-maratona.git
+    git clone https://github.com/Portal-Maratonas/tema-alumni-maratona.git
     ```
 
 2. Ative o tema no painel de controle do WordPress, acessando **Aparência > Temas** e selecionando o tema recém-clonado.
